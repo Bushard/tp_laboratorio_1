@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1522974462 source:c:\users\liqui\desktop\lab y pro 1\biblioteca\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1522886746 c:\users\liqui\desktop\lab y pro 1\biblioteca\lib.h
+
+1523574522 source:c:\users\liqui\desktop\lab y pro 1\tp1\tp_1_cascara\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"lib.h"
+
+1523639327 c:\users\liqui\desktop\lab y pro 1\tp1\tp_1_cascara\lib.h
+
+1523634898 source:c:\users\liqui\desktop\lab y pro 1\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523574106 source:e:\tp_1_cascara\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"lib.h"
+
+1523574288 e:\tp_1_cascara\lib.h
+
+1523574288 source:e:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1523574522 source:g:\tp_1_cascara\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"lib.h"
+
+1523574288 g:\tp_1_cascara\lib.h
+
+1523574288 source:g:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
