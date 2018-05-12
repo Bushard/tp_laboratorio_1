@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526087780 source:c:\users\liqui\desktop\lab y pro 1\tp2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526085286 c:\users\liqui\desktop\lab y pro 1\tp2\tp_2_cascara\funciones.h
+
+1526087732 source:c:\users\liqui\desktop\lab y pro 1\tp2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
